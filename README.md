@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MUHAMMAD IQBAL</h1>
 <h3 align="center">I am Junior FrontEnd Developer</h3>
 
-![I am Junior FrontEnd Developer](https://raw.githubusercontent.com/AgenTwilight/AgenTwilight/main/frontend.png)
+![I am Junior FrontEnd Developer]([https://raw.githubusercontent.com/AgenTwilight/AgenTwilight/main/frontend.png](https://raw.githubusercontent.com/AgenTwilight/AgenTwilight/main/front.png))
 
 I am now studying at Hasanuddin University. My major is Information Systems. I'm very interested in web developers and web 3
 
