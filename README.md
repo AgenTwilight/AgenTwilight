@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm MUHAMMAD IQBAL</h1>
 <h3 align="center">I am Junior FrontEnd Developer</h3>
 
-- ⚡ Fun fact **I'm an introvert and really like to read books**
+
+
+- ⚡ Fun fact I'm an introvert and really like to read books
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
