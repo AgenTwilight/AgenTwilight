@@ -1,7 +1,8 @@
-![I am Junior FrontEnd Developer](https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=1380&t=st=1688435450~exp=1688436050~hmac=a48852115bb5090ad99a61d6ea1249110cca06064dd470611acfe77cdf1bb8ff)
-
 ### Hi there 👋, My name is MUHAMMAD IQBAL
 #### I am Junior FrontEnd Developer
+
+![I am Junior FrontEnd Developer](https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=1380&t=st=1688435450~exp=1688436050~hmac=a48852115bb5090ad99a61d6ea1249110cca06064dd470611acfe77cdf1bb8ff)
+
 I am currently studying at Hasanuddin University. My major is Information Systems and I'm interested in the field of web developer
 
 Skills: Java / JS / HTML / CSS
