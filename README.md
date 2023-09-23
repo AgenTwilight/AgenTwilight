@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm MUHAMMAD IQBAL</h1>
 
-![I am Junior FrontEnd Developer](https://raw.githubusercontent.com/AgenTwilight/AgenTwilight/main/front.png)
+![I am Junior FrontEnd Developer](https://github.com/AgenTwilight/AgenTwilight/blob/main/frontend.png)
 
 <hr>
 
