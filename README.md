@@ -6,7 +6,7 @@
 <h2 align="center">I am Junior FrontEnd Developer</h2>
 
 I am an Information Systems student who is passionate about technology. I like to keep up with the latest developments in technology. I also enjoy reading books, both fiction and non-fiction, because I believe that reading can broaden my horizons and knowledge. I also believe that technology and literacy are the keys to exploring potential and achieving success in the future.
-
+<br>
 
 - 🌱 I’m currently studying at Hassanuddin University
 - 📫 How to reach me: mmmiqbal54@gmail.com 
