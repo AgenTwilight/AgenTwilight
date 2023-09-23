@@ -13,11 +13,7 @@
 - 🌱 I’m currently studying at Hassanuddin University
 - 📫 How to reach me: mmmiqbal54@gmail.com 
 - ⚡ Fun fact: I'm an introvert and really like to read books
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/_astrobot_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_astrobot_" height="30" width="40" /></a>
-</p> 
+ 
 
 
 <h3 align="left">Languages and Tools:</h3>
