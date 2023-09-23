@@ -3,10 +3,9 @@
 ![I am Junior FrontEnd Developer](https://github.com/AgenTwilight/AgenTwilight/blob/main/imgfrontend.png)
 <hr>
 <br>
-
 <h2 align="center">I am Junior FrontEnd Developer</h2>
 
-### I am now studying at Hasanuddin University. My major is Information Systems. I'm very interested in web developers and web 3
+### I am an Information Systems student who is passionate about technology. I like to keep up with the latest developments in technology. I also enjoy reading books, both fiction and non-fiction, because I believe that reading can broaden my horizons and knowledge. I also believe that technology and literacy are the keys to exploring potential and achieving success in the future.
 
 - 🌱 I’m currently studying at Hassanuddin University
 - 📫 How to reach me: mmmiqbal54@gmail.com 
